@@ -1,0 +1,2 @@
+If you wish to enable the secondary / modern look UI instead of the "realistic plastic rgb controller" UI 
+rename the html/index.html file to something else and rename the html/index_secondary.html to index.html
